@@ -10,7 +10,8 @@ public class WAP_TO_DIAPLAY_MSSG {
 		System.out.print("Enter 2nd Number:");
 		int b=sc.nextInt();
 		int c;
-		c=a+b;
+		int d=0;
+		c=a+b+d;
 		System.out.println("Sum of "+a+" and "+b+" is = "+c);
 		
 		
